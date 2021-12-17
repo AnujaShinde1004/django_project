@@ -1,2 +1,2 @@
 # django_project
-Simple django project
+Simple student registration form using python, django. sqllite database
